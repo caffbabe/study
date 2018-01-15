@@ -1,0 +1,13 @@
+2018-1-7
+  sudo:linux系统管理指令
+  tar:压缩
+  mkdir：创建目录
+  rm：删除
+  source:点命令；当我们修改了/etc/profile文件，source /etc/profile可使其立即生效
+  vim：文本编辑
+    w:保存
+    q:退出
+    i:编辑
+    dd:删除行
+    x:字符删除
+    

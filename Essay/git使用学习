@@ -1,0 +1,22 @@
+学习参考资料：
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137396287703354d8c6c01c904c7d9ff056ae23da865a000
+学习进度
+2018-1-6
+1、git的安装、设置
+  git config --global user.name "yourname" //设置全局仓库用户名
+  git config --global usre.email "youremail" //设置全局仓库邮件地址
+2、创建repository（版本库）
+   mkdir filedir //创建目录
+   cd filedir //移动至待建仓库目录
+   pwd //查看当前所在目录
+   git init //初始化，成功后生存.git文件夹
+   ls -ah //显示所有目录，包括隐藏目录
+3、添加文件至版本库
+  git add <path> //添加文件信息至索引库
+  git commit -m ""//体检文件，并进行说明
+  git status //查看仓库当前状态
+  git diff //比较不同
+  
+  
+  
+  

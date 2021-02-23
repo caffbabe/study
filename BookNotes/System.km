@@ -1,0 +1,22 @@
+{
+    "root": {
+        "data": {
+            "id": "c9gurrki53s0",
+            "created": 1614077640517,
+            "text": "操作系统"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c9gurzfhn5c0",
+                    "created": 1614077657628,
+                    "text": "什么是操作系统？"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

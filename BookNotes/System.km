@@ -10,9 +10,126 @@
                 "data": {
                     "id": "c9gurzfhn5c0",
                     "created": 1614077657628,
-                    "text": "什么是操作系统？"
+                    "text": "硬件管理"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "c9gyo7wrh340",
+                            "created": 1614088647069,
+                            "text": "CPU"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9gyq415xhs0",
+                                    "created": 1614088795357,
+                                    "text": "寄存器"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9gyqv8w23k0",
+                                            "created": 1614088854597,
+                                            "text": "程序计数器"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9gyr2parwg0",
+                                            "created": 1614088870827,
+                                            "text": "PSW"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9gyrbj4q400",
+                                            "created": 1614088890045,
+                                            "text": "堆栈指针"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9gyqa60b800",
+                                    "created": 1614088808710,
+                                    "text": "多线程"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9gyqh0fv200",
+                                    "created": 1614088823611,
+                                    "text": "流水线"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9gyqkwqdb40",
+                                    "created": 1614088832094,
+                                    "text": "超标量"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c9gysqod6iw0",
+                            "created": 1614089001377,
+                            "text": "GPU"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9gyod84hy00",
+                            "created": 1614088658640,
+                            "text": "内存",
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9gyossf0oo0",
+                            "created": 1614088692519,
+                            "text": "硬盘"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9gyoztnfdk0",
+                            "created": 1614088707831,
+                            "text": "网络"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c9gynypyhpc0",
+                    "created": 1614088627067,
+                    "text": "系统调用"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c9gypbafqps0",
+                            "created": 1614088732791,
+                            "text": "内核态/用户态"
+                        },
+                        "children": []
+                    }
+                ]
             }
         ]
     },

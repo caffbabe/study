@@ -1,0 +1,204 @@
+{
+    "root": {
+        "data": {
+            "id": "c9ncrr6zoc80",
+            "created": 1614737779418,
+            "text": "计算机"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c9ncs0613ao0",
+                    "created": 1614737798951,
+                    "text": "硬件"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c9ncso7pneo0",
+                            "created": 1614737851295,
+                            "text": "cpu",
+                            "note": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9ncxf8pd140",
+                                    "created": 1614738223585,
+                                    "text": "作用"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9ncxhl1few0",
+                                    "created": 1614738228684,
+                                    "text": "结构"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9nd1878vs00",
+                                            "created": 1614738521716,
+                                            "text": "ALU"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9nd1d7r9vc0",
+                                            "created": 1614738532631,
+                                            "text": "控制单元"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9nd1yvdz6o0",
+                                            "created": 1614738579772,
+                                            "text": "寄存器"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9nd2f94c7k0",
+                                            "created": 1614738615431,
+                                            "text": "时钟"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9nd03fx2n40",
+                                    "created": 1614738432992,
+                                    "text": "执行"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9ne0ggeujc0",
+                                            "created": 1614741282430,
+                                            "text": "取指令"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ne0k5xqxs0",
+                                            "created": 1614741290504,
+                                            "text": "指令译码"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ne0vciuco0",
+                                            "created": 1614741314847,
+                                            "text": "指令执行"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ne2fwb0rc0",
+                                            "created": 1614741437943,
+                                            "text": "访问取数"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ne2jkbwqw0",
+                                            "created": 1614741445926,
+                                            "text": "返回"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9ncxkb45540",
+                                    "created": 1614738234615,
+                                    "text": "参数"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9ncxnm5bio0",
+                                    "created": 1614738241812,
+                                    "text": "优化"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c9ncssvogd40",
+                            "created": 1614737861452,
+                            "text": "内存"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9ncsxe30io0",
+                            "created": 1614737871272,
+                            "text": "硬盘"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9nct06egjc0",
+                            "created": 1614737877337,
+                            "text": "主板"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9nct2eslzk0",
+                            "created": 1614737882198,
+                            "text": "总线"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c9nctcjz0qg0",
+                            "created": 1614737904279,
+                            "text": "显卡"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "c9ncs1tnt4w0",
+                    "created": 1614737802556,
+                    "text": "软件"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "c9ncs3yb0k00",
+                            "created": 1614737807191,
+                            "text": "操作系统"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

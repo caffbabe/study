@@ -58,13 +58,86 @@
                                             "created": 1614738579772,
                                             "text": "寄存器"
                                         },
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c9o6chsqzi00",
+                                                    "created": 1614821216800,
+                                                    "text": "程序计数器"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9o6cvuqim00",
+                                                    "created": 1614821247396,
+                                                    "text": "基址寄存器"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9o6dcm8vog0",
+                                                    "created": 1614821283887,
+                                                    "text": "变址寄存器"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9o6dgea1r40",
+                                                    "created": 1614821292113,
+                                                    "text": "通用寄存器"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9o6dowa14w0",
+                                                    "created": 1614821310615,
+                                                    "text": "累加寄存器"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9o6tf417w00",
+                                                    "created": 1614822543143,
+                                                    "text": "标志寄存器"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9o6dvg5w1k0",
+                                                    "created": 1614821324878,
+                                                    "text": "指令寄存器"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9o6e1c5djc0",
+                                                    "created": 1614821337696,
+                                                    "text": "栈寄存器"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "data": {
                                             "id": "c9nd2f94c7k0",
                                             "created": 1614738615431,
                                             "text": "时钟"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9o6f4yzbdc0",
+                                            "created": 1614821423972,
+                                            "text": "缓存"
                                         },
                                         "children": []
                                     }

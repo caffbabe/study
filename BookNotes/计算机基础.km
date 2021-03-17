@@ -25,7 +25,7 @@
                                 "data": {
                                     "id": "c9ncxf8pd140",
                                     "created": 1614738223585,
-                                    "text": "作用"
+                                    "text": "作用：超大规模集成电路 用于执行指令"
                                 },
                                 "children": []
                             },
@@ -42,13 +42,46 @@
                                             "created": 1614738521716,
                                             "text": "ALU"
                                         },
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c9yhmrvdxxs0",
+                                                    "created": 1615868654145,
+                                                    "text": "逻辑计算"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9yhmy6a1lk0",
+                                                    "created": 1615868667864,
+                                                    "text": "数学计算"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9yhn33hynk0",
+                                                    "created": 1615868678580,
+                                                    "text": "位计算"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "data": {
                                             "id": "c9nd1d7r9vc0",
                                             "created": 1614738532631,
                                             "text": "控制单元"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9yhm4h1kl40",
+                                            "created": 1615868603212,
+                                            "text": "MMU"
                                         },
                                         "children": []
                                     },
@@ -131,7 +164,16 @@
                                             "created": 1614738615431,
                                             "text": "时钟"
                                         },
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c9yhlpxsars0",
+                                                    "created": 1615868571572,
+                                                    "text": "振荡"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "data": {
@@ -147,48 +189,81 @@
                                 "data": {
                                     "id": "c9nd03fx2n40",
                                     "created": 1614738432992,
-                                    "text": "执行"
+                                    "text": "指令"
                                 },
                                 "children": [
                                     {
                                         "data": {
-                                            "id": "c9ne0ggeujc0",
-                                            "created": 1614741282430,
-                                            "text": "取指令"
-                                        },
-                                        "children": []
-                                    },
-                                    {
-                                        "data": {
-                                            "id": "c9ne0k5xqxs0",
-                                            "created": 1614741290504,
-                                            "text": "指令译码"
-                                        },
-                                        "children": []
-                                    },
-                                    {
-                                        "data": {
-                                            "id": "c9ne0vciuco0",
-                                            "created": 1614741314847,
-                                            "text": "指令执行"
-                                        },
-                                        "children": []
-                                    },
-                                    {
-                                        "data": {
-                                            "id": "c9ne2fwb0rc0",
-                                            "created": 1614741437943,
-                                            "text": "访问取数"
-                                        },
-                                        "children": []
-                                    },
-                                    {
-                                        "data": {
                                             "id": "c9ne2jkbwqw0",
                                             "created": 1614741445926,
-                                            "text": "返回"
+                                            "text": "操作码"
                                         },
                                         "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9yhqxvo2e80",
+                                            "created": 1615868980679,
+                                            "text": "操作数"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9yhr5pswww0",
+                                            "created": 1615868997739,
+                                            "text": "执行"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "c9yhr8aw5mg0",
+                                                    "created": 1615869003368,
+                                                    "text": "取指令"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9yhrbkkkiw0",
+                                                    "created": 1615869010483,
+                                                    "text": "译码"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9yngu3tdrk0",
+                                                    "created": 1615885115483,
+                                                    "text": "计算操作数地址"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9ynh4oq48g0",
+                                                    "created": 1615885138515,
+                                                    "text": "读取操作数"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9ynhcufy680",
+                                                    "created": 1615885156275,
+                                                    "text": "执行"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "c9ynhgum1vs0",
+                                                    "created": 1615885164992,
+                                                    "text": "写回结果"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -198,7 +273,16 @@
                                     "created": 1614738234615,
                                     "text": "参数"
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9yhrh0ijpc0",
+                                            "created": 1615869022331,
+                                            "text": "主频"
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
@@ -261,11 +345,168 @@
                 "children": [
                     {
                         "data": {
+                            "id": "c9yhoxwc3xc0",
+                            "created": 1615868823991,
+                            "text": "二进制"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9yn9p970rk0",
+                                    "created": 1615884556375,
+                                    "text": "表示"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9ynaqheie80",
+                                            "created": 1615884637412,
+                                            "text": "原码"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ynat1ibnc0",
+                                            "created": 1615884642981,
+                                            "text": "反码"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ynav0550w0",
+                                            "created": 1615884647252,
+                                            "text": "补码"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ynawevmh40",
+                                            "created": 1615884650320,
+                                            "text": "移码"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ynb29m2vs0",
+                                            "created": 1615884663063,
+                                            "text": "浮点数"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9yna2854io0",
+                                    "created": 1615884584609,
+                                    "text": "操作"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9ynb8d1kzs0",
+                                            "created": 1615884676331,
+                                            "text": "加减乘除"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ynbfld50w0",
+                                            "created": 1615884692071,
+                                            "text": "逻辑运算"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ynbb08xf40",
+                                            "created": 1615884682087,
+                                            "text": "位移运算"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c9ynm8cc2jk0",
+                                    "created": 1615885538294,
+                                    "text": "压缩算法"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c9ynmdl1cls0",
+                                            "created": 1615885549704,
+                                            "text": "RLE"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "c9ynmfc70h40",
+                                            "created": 1615885553523,
+                                            "text": "哈弗曼"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
                             "id": "c9ncs3yb0k00",
                             "created": 1614737807191,
                             "text": "操作系统"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c9yhj4y4ehc0",
+                                    "created": 1615868369152,
+                                    "text": "进程"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9yhjh4eis00",
+                                    "created": 1615868395653,
+                                    "text": "线程"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9yhjjdf31c0",
+                                    "created": 1615868400552,
+                                    "text": "地址空间"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9yhjoyuhvc0",
+                                    "created": 1615868412731,
+                                    "text": "文件"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c9yhjujy3o00",
+                                    "created": 1615868424891,
+                                    "text": "IO"
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }

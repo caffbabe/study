@@ -1,0 +1,354 @@
+{
+    "root": {
+        "data": {
+            "id": "ca4dkfzzbag0",
+            "created": 1616466546873,
+            "text": "面试"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ca4dkxxd9hs0",
+                    "created": 1616466585898,
+                    "text": "智慧药方项目介绍"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ca4eedsg8mg0",
+                            "created": 1616468892990,
+                            "text": "使用医保卡买药到家"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ca4elqfen680",
+                            "created": 1616469469048,
+                            "text": "模块"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ca4elwzl40w0",
+                                    "created": 1616469483330,
+                                    "text": "用户"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4em10u9mg0",
+                                    "created": 1616469492112,
+                                    "text": "药店"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4em2sgxgg0",
+                                    "created": 1616469495959,
+                                    "text": "药品"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4em42asxk0",
+                                    "created": 1616469498731,
+                                    "text": "订单"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4em8tml7k0",
+                                    "created": 1616469509090,
+                                    "text": "支付"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4embsuyo00",
+                                    "created": 1616469515574,
+                                    "text": "物流"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4emdhm6qo0",
+                                    "created": 1616469519248,
+                                    "text": "评价"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ca4eov0l0tc0",
+                            "created": 1616469714128,
+                            "text": "设计",
+                            "layout_right_offset": {
+                                "x": 5,
+                                "y": -10
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ca4ep0sy1z40",
+                                    "created": 1616469726727,
+                                    "text": "Restful接口 swagger"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4epepi3fs0",
+                                    "created": 1616469756994,
+                                    "text": "数据库设计  navicat"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ca4ence8ads0",
+                            "created": 1616469595230,
+                            "text": "前端"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ca4eo01aktk0",
+                                    "created": 1616469646691,
+                                    "text": "uniapp"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4eo31b1pk0",
+                                    "created": 1616469653222,
+                                    "text": "elementUI"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ca4ekcyl53c0",
+                            "created": 1616469361370,
+                            "text": "sprintboot  springcloud"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ca4f9s24vhk0",
+                                    "created": 1616471353339,
+                                    "text": "spring"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4esk7ftwg0",
+                                    "created": 1616470004055,
+                                    "text": "网关zuul"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4esovv4c00",
+                                    "created": 1616470014239,
+                                    "text": "注册中心 Eureka"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4evz8xxuo0",
+                                    "created": 1616470271891,
+                                    "text": "配置中心spring config"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4evgwkli80",
+                                    "created": 1616470231960,
+                                    "text": "服务调用 openFegin"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4exh72h280",
+                                    "created": 1616470389323,
+                                    "text": "负载均衡 Ribbon"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4ey6kgdbs0",
+                                    "created": 1616470444552,
+                                    "text": "熔断降级Hystrix"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4ez7684u00",
+                                    "created": 1616470524232,
+                                    "text": "链路追踪 sleuth"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4ezcembqo0",
+                                    "created": 1616470535624,
+                                    "text": "安全鉴权 shrio"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4f22ontuo0",
+                                    "created": 1616470749556,
+                                    "text": "分布式事务"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ca4en2blx1k0",
+                            "created": 1616469573304,
+                            "text": "中间件"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ca4f75bek340",
+                                    "created": 1616471147105,
+                                    "text": "消息中间件Rabbitmq"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4f7idrihs0",
+                                    "created": 1616471175546,
+                                    "text": "搜索中间件 ES"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4f7omwxlc0",
+                                    "created": 1616471189160,
+                                    "text": "文件中间件  FastDFS"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4f7skpblk0",
+                                    "created": 1616471197734,
+                                    "text": "缓存中间件 Redis"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ca4f93e26c80",
+                            "created": 1616471299641,
+                            "text": "数据库"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ca4f9kwv9k00",
+                                    "created": 1616471337783,
+                                    "text": "mybatis"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ca4f9ml3hqg0",
+                                    "created": 1616471341425,
+                                    "text": "mysql"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ca4fau3727c0",
+                            "created": 1616471436121,
+                            "text": "DDD"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ca4dkridvmg0",
+                    "created": 1616466571931,
+                    "text": "自我介绍"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ca4e49s4dx40",
+                            "created": 1616468100621,
+                            "text": "材料成型及控制工程 大学接触计算机硬件 操作系统 c语言"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ca4e51m5zoo0",
+                            "created": 1616468161211,
+                            "text": "13年校招进国企 南汽冲压件 产品经理 年轻人少 "
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ca4e5ph174o0",
+                            "created": 1616468213143,
+                            "text": "16年晶奇 前三年在业务部门 民政事业部 社会救助一站式服务 freemarker+ssm 后面进入技术研究中心"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ca4e9z26ar40",
+                            "created": 1616468547469,
+                            "text": "离职原因 个人发展 公司对新技术接收度太低"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
